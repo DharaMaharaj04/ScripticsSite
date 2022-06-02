@@ -104,7 +104,7 @@ export default class MachineLearning extends Component {
                         </div>
                     </div>
                 </section>  
-                <section className="faq">
+                <section className="faq" style={{paddingBottom:40}}>
                     <div className="container">
                         <div className="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                             <div className="panel panel-default">
