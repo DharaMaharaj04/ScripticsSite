@@ -8,7 +8,7 @@ export default class AwsControlTower extends Component {
             <Helmet>
                 <title>Scritpics | AWS Control Tower</title>
                 <meta name="description" content= "AWS Control Tower" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

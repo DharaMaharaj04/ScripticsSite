@@ -8,7 +8,7 @@ export default class ApplicationModernization extends Component {
             <Helmet>
                 <title>Scritpics | Application Modernization</title>
                 <meta name="description" content= "Application Modernization" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">
@@ -133,7 +133,7 @@ export default class ApplicationModernization extends Component {
                                 <h3 className='text-center'>Accelerate Your Workloads Rapidly</h3>
                             </div>
                         </div>
-                        <div className="panel-group" id="accordion" role="tablist" aria-multiselectable="false">
+                        <div className="panel-group" id="accordion" role="tablist" >
                             <div className="panel panel-default">
                                 <div className="panel-heading" role="tab" id="headingOne">
                                     <h4 className="panel-title">

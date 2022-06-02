@@ -27,7 +27,7 @@ a:hover{ color: #212121; text-decoration: none; }
 p{ font-family: HNR; font-size: 14px; color: #212121; line-height: 25px;}
 .case-desktop .container-fluid{ padding-left: 0rem; padding-right: 0rem; overflow: hidden;}
 /*** Header styling ***/
-#page-case-studies .navbar-brand,#page-case-study .navbar-brand,#page-industry .navbar-brand,#page-service .navbar-brand{ content: url("/assets/img/scriptics_wht_bg.svg") !important; }
+#page-case-studies .navbar-brand,#page-case-study .navbar-brand,#page-industry .navbar-brand,#page-service .navbar-brand,#page-cloud .navbar-brand{ content: url("/assets/img/scriptics_wht_bg.svg") !important; }
 .navbar{ padding-top: 70px!important; }
 .bg-white{ padding-top: 10px!important; box-shadow: 0px 15px 25px #00000026; margin-bottom: 0px;}
 .fixed-top .navbar-brand h1{ color: #ffffff; font-family: HNC!important; }

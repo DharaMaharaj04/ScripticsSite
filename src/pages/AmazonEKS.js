@@ -8,7 +8,7 @@ export default class AmazonEKS extends Component {
             <Helmet>
                 <title>Scritpics | Amazon EKS</title>
                 <meta name="description" content= "AWS EKS" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

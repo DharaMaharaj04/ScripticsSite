@@ -84,7 +84,7 @@ function Footer() {
                     <div className="container">
                         <div className="row">
                             <div className="footer-5 col-12 col-sm-12 col-md-6 col-lg-6">
-                                <p>© 2010-2021 Scriptics. All Rights Reserved.</p>
+                                <p>© 2010-2022 Scriptics. All Rights Reserved.</p>
                             </div>
                             <div className="footer-6 col-12 col-sm-12 col-md-6 col-lg-6 text-right">
                                 <ul className="social-icon">

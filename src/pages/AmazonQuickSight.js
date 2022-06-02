@@ -8,7 +8,7 @@ export default class AmazonQuickSight extends Component {
             <Helmet>
                 <title>Scritpics | Amazon QuickSight</title>
                 <meta name="description" content= "Amazon QuickSight" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

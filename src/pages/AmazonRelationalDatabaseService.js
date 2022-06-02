@@ -8,7 +8,7 @@ export default class AmazonRelationalDatabaseService extends Component {
             <Helmet>
                 <title>Scritpics | Amazon Relational Database Service</title>
                 <meta name="description" content= "Amazon Relational Database Service" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

@@ -8,7 +8,7 @@ export default class Migration extends Component {
             <Helmet>
                 <title>Scritpics | Migration</title>
                 <meta name="description" content= "Migration" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

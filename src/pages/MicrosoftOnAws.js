@@ -8,7 +8,7 @@ export default class MicrosoftOnAws extends Component {
             <Helmet>
                 <title>Scritpics | Microsoft on AWS</title>
                 <meta name="description" content= "Microsoft on AWS" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

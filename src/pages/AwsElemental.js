@@ -8,7 +8,7 @@ export default class AwsElemental extends Component {
             <Helmet>
                 <title>Scritpics | Aws Elemental</title>
                 <meta name="description" content= "Thinkbox Studio" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">

@@ -8,7 +8,7 @@ export default class MachineLearning extends Component {
             <Helmet>
                 <title>Scritpics | Machine Learning</title>
                 <meta name="description" content= "Machine Learning" />
-                <body id="page-service" />
+                <body id="page-cloud" />
             </Helmet>
                 <div className="spacer"></div>
                 <section className="srv-main">
