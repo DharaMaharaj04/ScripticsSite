@@ -147,7 +147,7 @@ export class AboutUs extends Component {
                             <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
                                 <div className="align-items-center">
                                     <div className="team_image">
-                                        <img src="/assets/img/darpan_patel.png" alt="Darpan_Patel" />
+                                        <img src="/assets/img/darpan_patel.png" alt="Darpan Patel" />
                                     </div>    
                                     <div className="team_desc">
                                         <h4>Darpan Patel, M.tech</h4>
@@ -158,7 +158,7 @@ export class AboutUs extends Component {
                             <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
                                 <div className="align-items-center">
                                     <div className="team_image">
-                                        <img src="/assets/img/team.png" alt="VIRAL_BHALIA" />
+                                        <img src="/assets/img/pravesh.png" alt="Pravesh Macwan" />
                                     </div>    
                                     <div className="team_desc">
                                         <h4>Pravesh Macwan, CPA</h4>
@@ -354,11 +354,6 @@ export class AboutUs extends Component {
                                 <h2>Singapore</h2>
                                 <p>#19-08 Prudential Tower,<br/> Singapore<br/>049712<br/>
                                 <a href="tel:+1 877-572-7478">+1 877-572-7478</a></p>
-                            </div>
-                            <div className="contact-adrs col-12 col-lg-2 col-sm-12">
-                                <h2>India</h2>
-                                <p>229-230 Maruti Solaris,<br/> Above Mc Donald’s<br/>Anand 388001<br/>
-                                <a href="tel:+91 7779016017">+91 7779016017</a></p>
                             </div>
                         </div>
                     </div>
