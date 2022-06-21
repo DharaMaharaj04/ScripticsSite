@@ -327,7 +327,7 @@ export class AboutUs extends Component {
                                 <div>
                                 <h2>SAY HELLO</h2>
                                 <p style={{fontSize:20}}>If you have an interesting project, an RFP, or just need some help, reach out to us. We’re available. We also teach, lecture, give workshops, and love sharing our knowledge, and we’ll literally go anywhere!</p>
-                                <a className="cnt-mail" href = "mailto: hello@scriptics.ca">hello@scriptics.ca</a>
+                                <a className="cnt-mail" href = "mailto: hello@scriptics.ai">hello@scriptics.ai</a>
                                 </div>
                             </div>
                             <div className="contact-adrs col-12 col-lg-2 col-sm-12">
