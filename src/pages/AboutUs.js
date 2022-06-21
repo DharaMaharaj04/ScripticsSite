@@ -63,38 +63,110 @@ export class AboutUs extends Component {
                 <section id="team" className="team">
                     <div className="container">
                         <div className="team-row row">
-                            <div className="team-img col-12 col-sm-12 col-lg-3">
-                                <img src="/assets/img/team.png"/>
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/harsh.png" alt="Harsh Macwan" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Harsh Macwan</h4>
+                                        <p className="title">CEO</p>
+                                    </div>
+                                </div>
+                            </div> 
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/nirav_patel.png" alt="Nirav Patel" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Nirav Patel</h4>
+                                        <p className="title">CTO</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div className="team-content col-12 col-sm-12 col-lg-9">
-                               <div className="cnt">
-                                    <h2>HARSH MACWAN</h2>
-                                    <p>Graduated from  University of Toronto,  Harsh is Cisco Certified  Internetworking Expert  and has worked with  Cisco Systems in Canada.  Harsh has also worked  with Blackberry on  Enterprise software  security programme and  possesses significant  experience in Software  development and  Networking. He is also  Chief Data Protection  Officer for GDPR  compliance.</p>
-                               </div>
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/dr.anu.png" alt="Dr.Anupriya M." />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Dr.Anupriya M. MDS, PhD</h4>
+                                        <p className="title">CMO</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div className="team-row row">
-                            <div className="team-img col-12 col-sm-12 col-lg-3">
-                                <img src="/assets/img/team.png"/>
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/abhilasha_malhotra.png" alt="Abhilasha Malhotra" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Abhilasha Malhotra, MBA</h4>
+                                        <p className="title">CPO</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div className="team-content col-12 col-sm-12 col-lg-9">
-                               <div className="cnt">
-                                    <h2>Nirav Patel</h2>
-                                    <p>Nirav Patel is a dynamic  team leader with business  in his DNA. Nirav has  earned gold medal in  M.Tech and currently  looking after Global  technology development  activities at Scriptics.</p>
-                               </div>
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/sachin_bhatia.png" alt="Sachin Bhatia" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Sachin Bhatia, M.Tech</h4>
+                                        <p className="title">COO</p>
+                                    </div>
+                                </div>
+                            </div> 
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/s_taposh.png" alt="S. Taposh" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>S. Taposh, PMP</h4>
+                                        <p className="title">VP – Global business</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div className="team-row row">
-                            <div className="team-img col-12 col-sm-12 col-lg-3">
-                                <img src="/assets/img/team.png"/>
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/viral.png" alt="VIRAL_BHALIA" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>VIRAL BHALIA</h4>
+                                        <p className="title">VP - Engineering</p>
+                                    </div>
+                                </div>
+                            </div> 
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/darpan_patel.png" alt="Darpan_Patel" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Darpan Patel, M.tech</h4>
+                                        <p className="title">VP - Software</p>
+                                    </div>
+                                </div>
                             </div>
-                            <div className="team-content col-12 col-sm-12 col-lg-9">
-                               <div className="cnt">
-                                    <h2>Viral Bhalia P.Eng</h2>
-                                    <p>Viral is a dynamic and  most innovative brain at  Scriptics. He holds  Professional Engineering  accolades in Canada.  Currently working on IoT  and AI projects and  simultaneously leading  R&D centre of Scriptics.</p>
-                               </div>
+                            <div className="col-12 col-lg-4 col-md-12 col-sm-12 text-center">
+                                <div className="align-items-center">
+                                    <div className="team_image">
+                                        <img src="/assets/img/team.png" alt="VIRAL_BHALIA" />
+                                    </div>    
+                                    <div className="team_desc">
+                                        <h4>Pravesh Macwan, CPA</h4>
+                                        <p className="title">VP - Finance</p>
+                                    </div>
+                                </div>
                             </div>
-                        </div>
+                        </div>                  
                     </div>
                 </section>
                 <section className="purpose">

@@ -216,7 +216,8 @@ footer h2{ color: #ffffff!important; font-size: 38px; font-family: HNC!important
 .team-row{ padding-bottom: 42px;}
 .team .team-img img{ border-radius: 15px;}
 .team .team-content{ display: flex; align-items: center; padding-right: 140px;}
-.team .team-row .team-img{ padding-left: 55px;}
+.team .team-row .team_image img{height: 170px;}
+.team .team-row .team_desc h4{padding-top: 20px;}
 .team p, .counter .count-text{ font-size: 20px;}
 .purpose .purpose-para{ font-size: 25px; line-height: 1.5em; width: 72%; margin: auto;}
 .purpose{padding-top: 135px; padding-bottom: 110px;}

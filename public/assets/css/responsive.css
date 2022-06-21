@@ -157,6 +157,7 @@ footer .social-icon{ text-align: left; padding: 30px 5px 10px 5px; }
 .know-us .know-us-head, .know-us .know-us-para, .purpose .purpose-head,.purpose .purpose-para{ width: 100%;}
 .team-row{ text-align: center;}
 .team .team-img img { margin-bottom: 20px;}
+.team_image img{margin-top: 25px;}
 .purpose { padding-top: 45px; padding-bottom: 75px;}
 .technology-follow{ padding-top: 65px;}
 .technology-follow .tech-slider { padding-top: 10px; padding-bottom: 65px;}
